@@ -1,2 +1,2 @@
 # Food
-Js practice landing
+Js practice landing. Desktop version only.
